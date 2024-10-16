@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Khedkar</h1>
 <h3 align="center">Security-Focused Software Engineer | Cybersecurity Enthusiast | Python Developer</h3>
 
-- 👨‍💻 All of my projects are available at [rohitkhedkar.com](rohitkhedkar.com)
+- 👨‍💻 All of my projects are available at [rohitkhedkar.com](https://rohitkhedkar.com)
 
 - 📝 I regularly write articles on [https://blarrow.tech](https://blarrow.tech)
 
