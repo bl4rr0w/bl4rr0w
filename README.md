@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Khedkar</h1>
-<h3 align="center">Security-Focused Software Engineer | Cybersecurity Enthusiast | Python Developer</h3>
+<h3 align="center">Security-Focused Software Engineer | Cybersecurity Enthusiast </h3>
 
 - 👨‍💻 All of my projects are available at [rohitkhedkar.com](https://rohitkhedkar.com)
 
