@@ -71,8 +71,8 @@ $ sudo systemctl status cloud-security
 ## Github Stats
 
 <div align="center">
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bl4rr0w&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" />
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=bl4rr0w&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" />
+  <img height="170px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bl4rr0w&theme=highcontrast&show_icons=true&hide_border=false&layout=compact&langs_count=6" />
+  <img height="170px" width="48%" src="https://github-readme-stats.vercel.app/api?username=bl4rr0w&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" />
 </div>
 
 <div align="center">
